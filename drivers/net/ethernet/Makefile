@@ -109,3 +109,4 @@ obj-$(CONFIG_NET_VENDOR_PENSANDO) += pensando/
 obj-$(CONFIG_OA_TC6) += oa_tc6.o
 obj-$(CONFIG_NET_VENDOR_PHYTIUM) += phytium/
 obj-$(CONFIG_NET_VENDOR_GRT) += guangruntong/
+obj-$(CONFIG_NET_VENDOR_BZWX) += bzwx/
